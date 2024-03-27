@@ -1,8 +1,8 @@
 <div>
   <a href="https://github.com/brwillon">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brwillon&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brwillon&layout=compact&langs_count=7&theme=prussian"/>
+  <img width="100%" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brwillon&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
 </div>
+
 <div style="display: inline_block"><br>  
   <img align="center" alt="dotnet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg">
   <img align="center" alt="csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -20,7 +20,7 @@
   <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="sqlserver" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 </div>
+    
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=brwillon&bg_color=000000&color=54AEFF&line=54AEFF&point=54AEFFc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-##
 
-  
