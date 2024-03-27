@@ -1,8 +1,7 @@
 <div>
   <a href="https://github.com/brwillon">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brwillon&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brwillon&layout=compact&langs_count=7&theme=prussian"/>-->
-  <img width="41%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brwillon&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brwillon&layout=compact&langs_count=7&theme=prussian"/>
 </div>
 <div style="display: inline_block"><br>  
   <img align="center" alt="dotnet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg">
