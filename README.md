@@ -5,12 +5,12 @@
 
 ##
 
-<div><br></div>
+<!--<div><br></div>
 
 <div>
   <a href="https://github.com/brwillon">
   <img width="100%" height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brwillon&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
-</div>
+</div> -->
     
 <div><br></div>
 
@@ -39,5 +39,5 @@
 <div><br></div>
 
 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=brwillon&bg_color=000000&color=54AEFF&line=54AEFF&point=54AEFFc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
