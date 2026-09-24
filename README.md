@@ -38,6 +38,6 @@
 
 <div><br></div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=brwillon&bg_color=000000&color=54AEFF&line=54AEFF&point=54AEFFc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
